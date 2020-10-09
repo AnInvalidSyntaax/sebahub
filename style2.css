@@ -1,0 +1,37 @@
+body {
+    text-align:center
+  }
+  
+  body {
+  background-color: black
+  }
+  
+  h1 {
+    color: orangered
+  }
+
+  div {
+    background-color: orange;
+    width: 300px;
+    border: 15px solid orangered;
+    padding: 50px;
+    margin: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  
+  }
+
+a {
+  color: white
+}
+
+a {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+a {
+  text-align:center
+}
+
+h1 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
